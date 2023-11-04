@@ -3,8 +3,8 @@ module github.com/open-feature/go-sdk-contrib/providers/configcat
 go 1.18
 
 require (
-	github.com/configcat/go-sdk/v8 v8.0.0
-	github.com/open-feature/go-sdk v1.7.0
+	github.com/configcat/go-sdk/v8 v8.0.1
+	github.com/open-feature/go-sdk v1.8.0
 	github.com/stretchr/testify v1.8.4
 )
 
